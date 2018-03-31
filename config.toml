@@ -1,3 +1,19 @@
-baseurl = "https://nullstudy.github.io"
+baseurl = "https://nullstudy.github.io/"
 languageCode = "ko-kr"
-title = "print("Null study")"
+title = "print('Null study')"
+theme = 'hestia-pure'
+
+[author]
+ author = 'andrewLee'
+ profile = 'We are frontend engineer working in Seoul City, Korea.'
+ image = 'image/theme/profile.jpg'
+
+[Params]
+ localeOgp = "ko-kr"
+ description = "This site is nullstudy blog."
+ keywords = "Web,Javascript,java,kotlin"
+ #twitter = "otaman517"
+ github = "nullstudy"
+ #facebook = "diwaocom"
+ googleanalytics = "UA-12345678-9"
+ googlecustomsearch = "xxxxxxxxx"
